@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+langchain
+openai
+spacy
+nltk
+streamlit
+fastapi
+uvicorn
+pillow
